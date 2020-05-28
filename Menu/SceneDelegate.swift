@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  ELeMel
+//  Menu
 //
 //  Created by Aki on 2020/5/19.
 //  Copyright © 2020 Aki. All rights reserved.

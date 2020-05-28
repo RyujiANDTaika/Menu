@@ -1,6 +1,6 @@
 //
 //  DataInit.swift
-//  ELeMel
+//  Menu
 //
 //  Created by Aki on 2020/5/28.
 //  Copyright © 2020 Aki. All rights reserved.
